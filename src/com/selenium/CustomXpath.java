@@ -10,7 +10,7 @@ public class CustomXpath {
 
 	public static void main(String[] args) {
 
-System.setProperty("webdriver.chrome.driver", "/Users/naveenkhunteta/Downloads/chromedriver");	
+System.setProperty("webdriver.chrome.driver", "/Users/maddy/Downloads/chromedriver");	
 		
 		WebDriver driver = new ChromeDriver(); //launch chrome
 		
