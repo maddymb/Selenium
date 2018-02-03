@@ -39,7 +39,7 @@ public class WindowPopUp {
 		System.out.println("This is Parent Window "+driver.getTitle());
 		
 		Thread.sleep(2000);
-		//driver.quit();
+		driver.quit();
 		
 	}
 
